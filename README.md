@@ -40,7 +40,7 @@ I am currently focused on:
 ## 🚀 Featured Projects
 
 ### Portfolio Website
-Personal portfolio showcasing my skills and projects  
+  
  Responsive design  
  Clean UI/UX  
  Deployed project  
@@ -71,8 +71,9 @@ Collection of practice projects
 ## 🌐 Connect With Me
 
  Email: valentineuhawenayo@gmail.com  
- twitter:Tine__24  
-instagram:vava___28 
+ twitter:@Tine__24  
+instagram:@vava___28 
+facebook:@Valen Tine
 
 ---
 
